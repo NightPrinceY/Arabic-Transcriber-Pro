@@ -1,0 +1,7 @@
+streamlit
+nemo_toolkit[asr]==1.23.0
+pydub
+soundfile
+torch
+torchaudio
+transformers
