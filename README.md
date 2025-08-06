@@ -3,8 +3,8 @@ title: Arabic ASR
 emoji: 💻
 colorFrom: green
 colorTo: yellow
-sdk: gradio
-sdk_version: 5.41.0
+sdk: streamlit
+sdk_version:  1.48.0
 app_file: app.py
 pinned: false
 ---
