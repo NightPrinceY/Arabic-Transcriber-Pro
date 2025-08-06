@@ -113,4 +113,4 @@ Arabic-transcriber-pro/
 
 ## About the Developer
 
-### 👤 [Yahya Alnwsany](https://nightprincey.github.io/Portfolio/)
+### 👤 [Yahya Alnwsany](https://nightprincey.github.io/Portfolio/)"# Arabic-Transcriber-Pro" 
