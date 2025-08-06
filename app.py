@@ -278,8 +278,10 @@ if uploaded_file is not None:
         os.remove(processed_wav)
 
 # Minimal footer
+st.markdown("---")
 st.markdown("""
-    <div style="text-align: center; color: var(--text-secondary); padding: 2rem 0; font-size: 0.8rem;">
-        <p>Powered by NeMo ASR • Secure local processing</p>
+    <div style="text-align: center; color: var(--text-secondary); padding: 20px; font-size: 0.9rem;">
+        <p>Powered by NeMo ASR and Streamlit | Professional Arabic Transcription Service</p>
+        <p>©NightPrince | 2025 Arabic Transcriber Pro | All rights reserved</p>
     </div>
 """, unsafe_allow_html=True)
