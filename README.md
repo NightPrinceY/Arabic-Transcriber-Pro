@@ -1,6 +1,6 @@
 ---
-title: Arabic ASR
-emoji: 💻
+title:  Arabic Transcriber Pro
+emoji: 🗣️
 colorFrom: green
 colorTo: red
 sdk: streamlit
